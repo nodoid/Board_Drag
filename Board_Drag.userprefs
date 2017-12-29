@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{38B3476B-9FBF-4849-B8C9-EE099EF681C0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Board_Drag/Info.plist">
+    <Files>
+      <File FileName="Board_Drag/PopupView.cs" Line="82" Column="50" />
+      <File FileName="Board_Drag/AppDelegate.cs" Line="8" Column="49" />
+      <File FileName="Board_Drag/Theme.cs" Line="3" Column="1" />
+      <File FileName="Board_Drag/Board_DragViewController.cs" Line="491" Column="21" />
+      <File FileName="Board_Drag/Board_DragViewController.xib" />
+      <File FileName="Board_Drag/PopupView.xib" />
+      <File FileName="Board_Drag/Main.cs" Line="13" Column="17" />
+      <File FileName="Board_Drag/Board_DragViewController.designer.cs" Line="11" Column="3" />
+      <File FileName="Board_Drag/PopupView.designer.cs" Line="12" Column="10" />
+      <File FileName="Board_Drag/Info.plist" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Board__Drag PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.DE323246-C1CA-4735-BA06-741C65AF715C" automaticSigning="True">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam DeveloperId="GQEJEHTDM4" TeamId="3UH7BE38T3" />
+  </MonoDevelop.Ide.ItemProperties.Board__Drag>
+  <MultiItemStartupConfigurations />
+</Properties>
